@@ -748,7 +748,7 @@ class wizard(xbmcgui.WindowXMLDialog):
         self.oe = kwargs['oeMain']
         
         self.guisettings = '%s/userdata/guisettings.xml'  % self.oe.XBMC_USER_HOME
-        self.languages_dir = '/usr/share/xbmc/language/'
+        self.languages_dir = '/usr/share/XBMC/language/'
 
         self.buttons = {
             1: {'id': 1500, 'modul': '', 'action': ''},
@@ -1196,7 +1196,7 @@ class wizard(xbmcgui.WindowXMLDialog):
             config_file.write(xml_conf.toprettyxml())
             config_file.close()
 
-            os.system('killall xbmc.bin')
+            os.system('killall plexhometheater')
         except Exception, e:
 
             self.oe.dbg_log('oeWindows.wizard::set_new_language('
