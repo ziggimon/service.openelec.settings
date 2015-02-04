@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Swedish (http://www.transifex.com/projects/p/xbmc-addons/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "Arkitektur:"
 
 msgctxt "#609"
-msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for XBMC media center. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
-msgstr "Open Embedded Linux Entertainment Center (OpenELEC) är en minimal Linux-distrubution byggd för XBMC media center. OpenELEC är designat att starta snabbt med en installationsprocess så enkel att vem som helst kan konvertera en tom HTPC till en fullfjädrad mediamaskin på under 15 minuter."
+msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for Plex Home Theater. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
+msgstr "Open Embedded Linux Entertainment Center (OpenELEC) är en minimal Linux-distrubution byggd för Plex Home Theater. OpenELEC är designat att starta snabbt med en installationsprocess så enkel att vem som helst kan konvertera en tom HTPC till en fullfjädrad mediamaskin på under 15 minuter."
 
 msgctxt "#704"
 msgid "Configure and pair Bluetooth devices"
@@ -881,8 +881,8 @@ msgid "Backup"
 msgstr "Backupp"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "Skapa System och XBMC-backup"
+msgid "Create System and PHT Backup"
+msgstr "Skapa System och PHT-backup"
 
 msgctxt "#32373"
 msgid "Restore Backup"

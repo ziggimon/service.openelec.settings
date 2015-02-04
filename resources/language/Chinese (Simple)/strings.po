@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Chinese (Simple) (http://www.transifex.com/projects/p/xbmc-addons/language/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,20 +89,20 @@ msgid "Set to ON and Bluetooth devices will be disabled during power-saving mode
 msgstr "启用后，在节能模式下蓝牙设备将会被禁用"
 
 msgctxt "#722"
-msgid "Create a tar archive containing all OpenELEC and XBMC configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
-msgstr "为OpenELEC以及XBMC的配置、数据库和缩略图创建一个完整的tar文件归档。备份文件的存放路径为 /storage/backups"
+msgid "Create a tar archive containing all OpenELEC and PHT configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgstr "为OpenELEC以及PHT的配置、数据库和缩略图创建一个完整的tar文件归档。备份文件的存放路径为 /storage/backups"
 
 msgctxt "#723"
 msgid "Restore a tar archive backup previously created using the backup option above"
 msgstr "使用先前创建的备份文件恢复系统配置和数据库"
 
 msgctxt "#724"
-msgid "Permanently reset OpenELEC OS configuration to defaults (XBMC is not touched)"
-msgstr "重置OpenELEC系统配置（无法撤销，XBMC不会被重置）"
+msgid "Permanently reset OpenELEC OS configuration to defaults (PHT is not touched)"
+msgstr "重置OpenELEC系统配置（无法撤销，PHT不会被重置）"
 
 msgctxt "#725"
-msgid "Permanently reset OpenELEC OS and XBMC configuration to defaults"
-msgstr "重置OpenELEC系统和XBMC的全部配置（无法撤销）"
+msgid "Permanently reset OpenELEC OS and PHT configuration to defaults"
+msgstr "重置OpenELEC系统和PHT的全部配置（无法撤销）"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"

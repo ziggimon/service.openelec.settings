@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Galician (http://www.transifex.com/projects/p/xbmc-addons/language/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -829,8 +829,8 @@ msgid "Advanced Network Settings"
 msgstr "Configuración Avanzada de Rede"
 
 msgctxt "#32369"
-msgid "Wait for network before starting XBMC"
-msgstr "Agardar pola rede antes de iniciar XBMC"
+msgid "Wait for network before starting PHT"
+msgstr "Agardar pola rede antes de iniciar PHT"
 
 msgctxt "#32370"
 msgid "Maximum Wait Time (Sec.)"
@@ -841,8 +841,8 @@ msgid "Backup"
 msgstr "Copia de seguranza"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "Crear unha Copia de Seguranza do Sistema e o XBMC"
+msgid "Create System and PHT Backup"
+msgstr "Crear unha Copia de Seguranza do Sistema e o PHT"
 
 msgctxt "#32373"
 msgid "Restore Backup"

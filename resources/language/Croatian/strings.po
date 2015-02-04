@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Croatian (http://www.transifex.com/projects/p/xbmc-addons/language/hr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "Arhitektura:"
 
 msgctxt "#609"
-msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for XBMC media center. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
-msgstr "Open Embedded Linux Entertainment Center (OpenELEC) je minimalna Linux distribucija namijenjena XBMC medija centru. OpenELEC je dizajniran za brzo podizanje sa procesom instalacije, jednostavno dovoljno za svakoga da pretvori prosječan HTPC u potpuno podešeni medijski stroj za samo 15 minuta."
+msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for Plex Home Theater. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
+msgstr "Open Embedded Linux Entertainment Center (OpenELEC) je minimalna Linux distribucija namijenjena PHT medija centru. OpenELEC je dizajniran za brzo podizanje sa procesom instalacije, jednostavno dovoljno za svakoga da pretvori prosječan HTPC u potpuno podešeni medijski stroj za samo 15 minuta."
 
 msgctxt "#610"
 msgid "[B]Support:[/B][CR]Web: http://openelec.tv[CR]Forum: http://openelec.tv/forum[CR]Wiki: http://wiki.openelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #openelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/openelec[CR]Facebook: http://www.facebook.com/OpenELEC[CR]Google+: https://plus.google.com/+openelec"
@@ -153,20 +153,20 @@ msgid "721"
 msgstr "721"
 
 msgctxt "#722"
-msgid "Create a tar archive containing all OpenELEC and XBMC configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
-msgstr "Stvorite tar arhivu koja sadrži sva OpenELEC i XBMC podešavanja, postavke, baze podataka i sadržaj minijatura. Datoteke sigurnog kopiranja biti će spremljene u /storage/backups"
+msgid "Create a tar archive containing all OpenELEC and PHT configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgstr "Stvorite tar arhivu koja sadrži sva OpenELEC i PHT podešavanja, postavke, baze podataka i sadržaj minijatura. Datoteke sigurnog kopiranja biti će spremljene u /storage/backups"
 
 msgctxt "#723"
 msgid "Restore a tar archive backup previously created using the backup option above"
 msgstr "Vrati tar archivu sigurnosne kopije prije stvorene koristeći mogućnost sigurnosnog kopiranja iznad"
 
 msgctxt "#724"
-msgid "Permanently reset OpenELEC OS configuration to defaults (XBMC is not touched)"
-msgstr "Trajno vratite OpenELEC OS podešavanja na zadano (XBMC nije zahvaćen)"
+msgid "Permanently reset OpenELEC OS configuration to defaults (PHT is not touched)"
+msgstr "Trajno vratite OpenELEC OS podešavanja na zadano (PHT nije zahvaćen)"
 
 msgctxt "#725"
-msgid "Permanently reset OpenELEC OS and XBMC configuration to defaults"
-msgstr "Trajno vratite OpenELEC OS i XBMC podešavanja na zadano"
+msgid "Permanently reset OpenELEC OS and PHT configuration to defaults"
+msgstr "Trajno vratite OpenELEC OS i PHT podešavanja na zadano"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"
@@ -209,8 +209,8 @@ msgid "Configure boot-time mounting of a remote filesystem, e.g. NFS or SMB moun
 msgstr "Podesite vrijeme montiranja pri podizanju sustava udaljenih datotečnih sustava, npr. NFS ili SMB montiranja na udaljenom NAS, bez potrebe autostart.sh hakiranja."
 
 msgctxt "#736"
-msgid "Set to ON to delay XBMC startup until the network is available. Use this if the OS is booting into XBMC before the network is up and central MySQL databases are accessible."
-msgstr "Postavite na  UKLJUČENO za odgodu pokretanja XBMC-a dok mreža ne postane dostupna. Koristi ovo ako se OS podiže u XBMC prije nego se mreža uključi i središnja MySQL baza podataka je dostupna."
+msgid "Set to ON to delay PHT startup until the network is available. Use this if the OS is booting into PHT before the network is up and central MySQL databases are accessible."
+msgstr "Postavite na  UKLJUČENO za odgodu pokretanja PHT-a dok mreža ne postane dostupna. Koristi ovo ako se OS podiže u PHT prije nego se mreža uključi i središnja MySQL baza podataka je dostupna."
 
 msgctxt "#737"
 msgid "737"
@@ -861,8 +861,8 @@ msgid "Thank you"
 msgstr "Hvala Vam"
 
 msgctxt "#32318"
-msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter XBMC when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
-msgstr "Vaša [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] instalacija je sada završena i ući ćete u XBMC gdje možete postaviti vaše medijske zbirke. Ako vam je potrebna pomoć, postoje korisničke upute na wiki.xbmc.org[CR][CR][COLOR FF757677]Otvori[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] je razvio posvečeni tim razvijatelja koji su predano radili u svoje slobodno vrijeme. Čak i kao dobrovoljan projekt, moramo platiti našu Internet vezu i razvojne resurse stoga ako vam je [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] koristan, uvijek ćemo cijeniti donaciju bilo kojeg iznosa.[CR][CR]Napakon, nadamo se da ste uživali koristeći [COLOR FF757677]Otvori[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] isto tako kao i mi što uživamo razvijati ga. Ako trebate bilo kakvu pomoć, možete pronaći poveznice za dobivanje pomoći sa najnovijim openelec.tv novostima"
+msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter PHT when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
+msgstr "Vaša [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] instalacija je sada završena i ući ćete u PHT gdje možete postaviti vaše medijske zbirke. Ako vam je potrebna pomoć, postoje korisničke upute na wiki.xbmc.org[CR][CR][COLOR FF757677]Otvori[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] je razvio posvečeni tim razvijatelja koji su predano radili u svoje slobodno vrijeme. Čak i kao dobrovoljan projekt, moramo platiti našu Internet vezu i razvojne resurse stoga ako vam je [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] koristan, uvijek ćemo cijeniti donaciju bilo kojeg iznosa.[CR][CR]Napakon, nadamo se da ste uživali koristeći [COLOR FF757677]Otvori[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] isto tako kao i mi što uživamo razvijati ga. Ako trebate bilo kakvu pomoć, možete pronaći poveznice za dobivanje pomoći sa najnovijim openelec.tv novostima"
 
 msgctxt "#32319"
 msgid "Cron"
@@ -1057,8 +1057,8 @@ msgid "Advanced Network Settings"
 msgstr "Napredne postavke mreže"
 
 msgctxt "#32369"
-msgid "Wait for network before starting XBMC"
-msgstr "Pričekaj mrežu prije pokretanja XBMC-a"
+msgid "Wait for network before starting PHT"
+msgstr "Pričekaj mrežu prije pokretanja PHT-a"
 
 msgctxt "#32370"
 msgid "Maximum Wait Time (Sec.)"
@@ -1069,8 +1069,8 @@ msgid "Backup"
 msgstr "Sigurnosno kopiranje"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "Stvori sigurnosnu kopiju sustava i XBMC-a"
+msgid "Create System and PHT Backup"
+msgstr "Stvori sigurnosnu kopiju sustava i PHT-a"
 
 msgctxt "#32373"
 msgid "Restore Backup"

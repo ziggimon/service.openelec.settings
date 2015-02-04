@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Greek (http://www.transifex.com/projects/p/xbmc-addons/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "Αρχιτεκτονική:"
 
 msgctxt "#609"
-msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for XBMC media center. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
-msgstr "Το Ανοικτό Ενσωματωμένο Κέντρο Ψυχαγωγίας Linux (Open Embedded Linux Entertainment Center, OpenELEC) είναι μια μινιμαλιστική έκδοση Linux για το κέντρο πολυμέσων XBMC. Το OpenELEC είναι σχεδιασμένο για να εκκινεί γρήγορα με μια τόσο απλοποιημένη διαδικασία εγκατάστασης που να επιτρέπει στον καθένα να μετατρέψει ένα απλό HTPC σε μια πλήρως παραμετροποιήσιμη συσκευή πολυμέσων μέσα σε λιγότερο από 15 λεπτά."
+msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for Plex Home Theater. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
+msgstr "Το Ανοικτό Ενσωματωμένο Κέντρο Ψυχαγωγίας Linux (Open Embedded Linux Entertainment Center, OpenELEC) είναι μια μινιμαλιστική έκδοση Linux για το κέντρο πολυμέσων PHT. Το OpenELEC είναι σχεδιασμένο για να εκκινεί γρήγορα με μια τόσο απλοποιημένη διαδικασία εγκατάστασης που να επιτρέπει στον καθένα να μετατρέψει ένα απλό HTPC σε μια πλήρως παραμετροποιήσιμη συσκευή πολυμέσων μέσα σε λιγότερο από 15 λεπτά."
 
 msgctxt "#610"
 msgid "[B]Support:[/B][CR]Web: http://openelec.tv[CR]Forum: http://openelec.tv/forum[CR]Wiki: http://wiki.openelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #openelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/openelec[CR]Facebook: http://www.facebook.com/OpenELEC[CR]Google+: https://plus.google.com/+openelec"
@@ -153,20 +153,20 @@ msgid "721"
 msgstr "721"
 
 msgctxt "#722"
-msgid "Create a tar archive containing all OpenELEC and XBMC configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
-msgstr "Δημιουργία ενός συμπιεσμένου αρχείου tar που περιλαμβάνει όλες τις ρυθμίσεις του OpenELEC και του XBMC, τις βάσεις δεδομένων και τις μικρογραφίες. Τα αντίγραφα ασφαλείας θα αποθηκευθούν στο φάκελο /storage/backups"
+msgid "Create a tar archive containing all OpenELEC and PHT configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgstr "Δημιουργία ενός συμπιεσμένου αρχείου tar που περιλαμβάνει όλες τις ρυθμίσεις του OpenELEC και του PHT, τις βάσεις δεδομένων και τις μικρογραφίες. Τα αντίγραφα ασφαλείας θα αποθηκευθούν στο φάκελο /storage/backups"
 
 msgctxt "#723"
 msgid "Restore a tar archive backup previously created using the backup option above"
 msgstr "Επαναφορά ενός συμπιεσμένου αρχείου tar που δημιουργήθηκε χρησιμοποιώντας την ανωτέρω επιλογή αντιγράφων ασφαλείας"
 
 msgctxt "#724"
-msgid "Permanently reset OpenELEC OS configuration to defaults (XBMC is not touched)"
-msgstr "Να γίνει μόνιμη επαναφορά της διαμόρφωσης του λειτουργικού συστήματος OpenELEC στις προεπιλογές (δεν επηρεάζεται το XBMC)"
+msgid "Permanently reset OpenELEC OS configuration to defaults (PHT is not touched)"
+msgstr "Να γίνει μόνιμη επαναφορά της διαμόρφωσης του λειτουργικού συστήματος OpenELEC στις προεπιλογές (δεν επηρεάζεται το PHT)"
 
 msgctxt "#725"
-msgid "Permanently reset OpenELEC OS and XBMC configuration to defaults"
-msgstr "Να γίνει μόνιμη επαναφορά της διαμόρφωσης του λειτουργικού συστήματος OpenELEC και του XBMC στις προεπιλογές"
+msgid "Permanently reset OpenELEC OS and PHT configuration to defaults"
+msgstr "Να γίνει μόνιμη επαναφορά της διαμόρφωσης του λειτουργικού συστήματος OpenELEC και του PHT στις προεπιλογές"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"
@@ -209,8 +209,8 @@ msgid "Configure boot-time mounting of a remote filesystem, e.g. NFS or SMB moun
 msgstr "Διαμόρφωση χρόνου εκκίνησης προσάρτησης απομακρυσμένων συστημάτων αρχείων, π.χ. NFS ή SMB προσαρτήσεις σε ένα απομακρυσμένο NAS, χωρίς να απαιτούνται αλλαγές στο autostart.sh"
 
 msgctxt "#736"
-msgid "Set to ON to delay XBMC startup until the network is available. Use this if the OS is booting into XBMC before the network is up and central MySQL databases are accessible."
-msgstr "Θέστε το ως ΕΝΕΡΓΟ για να καθυστερεί η εκκίνηση του XBMC μέχρι να βρεθεί διαθέσιμο δίκτυο. Χρησιμοποιήστε αυτή τη ρύθμιση αν το λειτουργικό σύστημα μπαίνει στο XBMC πριν συνδεθεί το δίκτυο και γίνουν προσβάσιμες οι κεντρικές βάσεις δεδομένων MySQL."
+msgid "Set to ON to delay PHT startup until the network is available. Use this if the OS is booting into PHT before the network is up and central MySQL databases are accessible."
+msgstr "Θέστε το ως ΕΝΕΡΓΟ για να καθυστερεί η εκκίνηση του PHT μέχρι να βρεθεί διαθέσιμο δίκτυο. Χρησιμοποιήστε αυτή τη ρύθμιση αν το λειτουργικό σύστημα μπαίνει στο PHT πριν συνδεθεί το δίκτυο και γίνουν προσβάσιμες οι κεντρικές βάσεις δεδομένων MySQL."
 
 msgctxt "#737"
 msgid "737"
@@ -865,8 +865,8 @@ msgid "Thank you"
 msgstr "Σας ευχαριστούμε"
 
 msgctxt "#32318"
-msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter XBMC when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
-msgstr "Η εγκατάσταση του [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] ολοκληρώθηκε και τώρα θα μπείτε στο XBMC για να ρυθμίσετε τις συλλογές σας. Για βοήθεια σχετικά με αυτό, υπάρχουν οδηγίες στο wiki.xbmc.org[CR][CR]Το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] αναπτύχθηκε από μια ομάδα προγραμματιστών οι οποίοι εργάζονται αποκλειστικά στον ελεύθερό τους χρόνο. Ακόμα και σαν εθελοντικό έργο, όμως, πρέπει να πληρώσουμε ορισμένες υποχρεώσεις όπως ο διαδικτυακός χώρος και τα εργαλεία ανάπτυξης, για αυτό αν βρίσκετε το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] χρήσιμο, θα εκτιμήσουμε οποιαδήποτε δωρεά ανεξαρτήτου ύψους.[CR][CR]Τέλος, ελπίζουμε να απολαύσετε το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] όσο εμείς απολαύσαμε τη δημιουργία του. Αν χρειάζεστε επιπλέον βοήθεια, μπορείτε να βρείτε σχετικούς συνδέσμους καθώς και τα πιο πρόσφατα νέα μας στο openelec.tv"
+msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter PHT when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
+msgstr "Η εγκατάσταση του [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] ολοκληρώθηκε και τώρα θα μπείτε στο PHT για να ρυθμίσετε τις συλλογές σας. Για βοήθεια σχετικά με αυτό, υπάρχουν οδηγίες στο wiki.xbmc.org[CR][CR]Το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] αναπτύχθηκε από μια ομάδα προγραμματιστών οι οποίοι εργάζονται αποκλειστικά στον ελεύθερό τους χρόνο. Ακόμα και σαν εθελοντικό έργο, όμως, πρέπει να πληρώσουμε ορισμένες υποχρεώσεις όπως ο διαδικτυακός χώρος και τα εργαλεία ανάπτυξης, για αυτό αν βρίσκετε το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] χρήσιμο, θα εκτιμήσουμε οποιαδήποτε δωρεά ανεξαρτήτου ύψους.[CR][CR]Τέλος, ελπίζουμε να απολαύσετε το [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] όσο εμείς απολαύσαμε τη δημιουργία του. Αν χρειάζεστε επιπλέον βοήθεια, μπορείτε να βρείτε σχετικούς συνδέσμους καθώς και τα πιο πρόσφατα νέα μας στο openelec.tv"
 
 msgctxt "#32319"
 msgid "Cron"
@@ -1061,8 +1061,8 @@ msgid "Advanced Network Settings"
 msgstr "Ρυθμίσεις Δικτύου για Προχωρημένους"
 
 msgctxt "#32369"
-msgid "Wait for network before starting XBMC"
-msgstr "Αναμονή για το δίκτυο πριν την έναρξη του XBMC"
+msgid "Wait for network before starting PHT"
+msgstr "Αναμονή για το δίκτυο πριν την έναρξη του PHT"
 
 msgctxt "#32370"
 msgid "Maximum Wait Time (Sec.)"
@@ -1073,8 +1073,8 @@ msgid "Backup"
 msgstr "Δημιουργία Αντιγράφου"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "Δημιουργία Αντιγράφου Συστήματος και XBMC"
+msgid "Create System and PHT Backup"
+msgstr "Δημιουργία Αντιγράφου Συστήματος και PHT"
 
 msgctxt "#32373"
 msgid "Restore Backup"

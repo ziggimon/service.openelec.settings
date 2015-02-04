@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/xbmc-addons/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "Architectuur:"
 
 msgctxt "#609"
-msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for XBMC media center. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
-msgstr "Open Embedded Linux Entertainment Center (OpenELEC) is een minimale Linux distributie, speciaal gebouwd voor het XBMC mediacenter. OpenELEC is ontworpen om snel op te starten via een opstartproces dat voor iedereen eenvoudig genoeg is om binnen 15 minuten een kale HTPC in een volledig geconfigureerde media machine om te bouwen."
+msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for Plex Home Theater. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
+msgstr "Open Embedded Linux Entertainment Center (OpenELEC) is een minimale Linux distributie, speciaal gebouwd voor het PHT mediacenter. OpenELEC is ontworpen om snel op te starten via een opstartproces dat voor iedereen eenvoudig genoeg is om binnen 15 minuten een kale HTPC in een volledig geconfigureerde media machine om te bouwen."
 
 msgctxt "#610"
 msgid "[B]Support:[/B][CR]Web: http://openelec.tv[CR]Forum: http://openelec.tv/forum[CR]Wiki: http://wiki.openelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #openelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/openelec[CR]Facebook: http://www.facebook.com/OpenELEC[CR]Google+: https://plus.google.com/+openelec"
@@ -153,20 +153,20 @@ msgid "721"
 msgstr "721"
 
 msgctxt "#722"
-msgid "Create a tar archive containing all OpenELEC and XBMC configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
-msgstr "Maak een .tar archiefbestand met alle OpenELEC en XBMC configuratie-instellingen, databases en thumbnails. Backupbestanden zullen worden opgeslagen in /storage/backups"
+msgid "Create a tar archive containing all OpenELEC and PHT configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgstr "Maak een .tar archiefbestand met alle OpenELEC en PHT configuratie-instellingen, databases en thumbnails. Backupbestanden zullen worden opgeslagen in /storage/backups"
 
 msgctxt "#723"
 msgid "Restore a tar archive backup previously created using the backup option above"
 msgstr "Terugzetten van een tar archiefbestand gemaakt met de backup-optie hierboven"
 
 msgctxt "#724"
-msgid "Permanently reset OpenELEC OS configuration to defaults (XBMC is not touched)"
-msgstr "Definitief de configuratie van OpenELEC naar standaardwaarden resetten (XBMC blijft ongewijzigd)"
+msgid "Permanently reset OpenELEC OS configuration to defaults (PHT is not touched)"
+msgstr "Definitief de configuratie van OpenELEC naar standaardwaarden resetten (PHT blijft ongewijzigd)"
 
 msgctxt "#725"
-msgid "Permanently reset OpenELEC OS and XBMC configuration to defaults"
-msgstr "Definitief de configuratie van OpenELEC en XBMC naar standaardwaarden resetten"
+msgid "Permanently reset OpenELEC OS and PHT configuration to defaults"
+msgstr "Definitief de configuratie van OpenELEC en PHT naar standaardwaarden resetten"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"
@@ -209,8 +209,8 @@ msgid "Configure boot-time mounting of a remote filesystem, e.g. NFS or SMB moun
 msgstr "Configureer opstarttijd booten van een extern filesysteem, bijv. NFS of SMB mounts op een externe NAS zonder benodigde autostart.sh hacks."
 
 msgctxt "#736"
-msgid "Set to ON to delay XBMC startup until the network is available. Use this if the OS is booting into XBMC before the network is up and central MySQL databases are accessible."
-msgstr "Zet AAN om het opstarten van XBMC te vertragen totdat het netwerk beschikbaar is. Gebruik dit als het OS sneller XBMC opstart dan dat het netwerk beschikbaar is en dat gecentraliseerde MySQL databases toegankelijk zijn."
+msgid "Set to ON to delay PHT startup until the network is available. Use this if the OS is booting into PHT before the network is up and central MySQL databases are accessible."
+msgstr "Zet AAN om het opstarten van PHT te vertragen totdat het netwerk beschikbaar is. Gebruik dit als het OS sneller PHT opstart dan dat het netwerk beschikbaar is en dat gecentraliseerde MySQL databases toegankelijk zijn."
 
 msgctxt "#737"
 msgid "737"
@@ -865,8 +865,8 @@ msgid "Thank you"
 msgstr "Dankuwel"
 
 msgctxt "#32318"
-msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter XBMC when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
-msgstr "Uw [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installatie is nu voltooid, en u kunt XBMC opstarten zodra u uw mediabibliotheken kunt opzeten. Voor verdere help hiermee is er een hulpgids aanwezig op wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is ontwikkeld door een toegewijd team van ontwikkelaars, die puur in hun vrije tijd werken. Zelfs bij een vrijwilligersproject moeten we nog altijd onze internet bandbreedte en ontwikkelbronnen bekostigen, dus als u [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] nuttig vindt, zullen we altijd uw donatie van welk bedrag dan ook op prijs stellen.[CR][CR]Ten slotte, we hopen dat u van [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] net zo zult genieten als dat wij het fijn vonden het te bouwen. Indien u nog meer hulp nodig heeft, dan kunt u links daarvoor vinden alsook het laatste nieuws op http://openelec.tv"
+msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter PHT when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
+msgstr "Uw [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installatie is nu voltooid, en u kunt PHT opstarten zodra u uw mediabibliotheken kunt opzeten. Voor verdere help hiermee is er een hulpgids aanwezig op wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is ontwikkeld door een toegewijd team van ontwikkelaars, die puur in hun vrije tijd werken. Zelfs bij een vrijwilligersproject moeten we nog altijd onze internet bandbreedte en ontwikkelbronnen bekostigen, dus als u [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] nuttig vindt, zullen we altijd uw donatie van welk bedrag dan ook op prijs stellen.[CR][CR]Ten slotte, we hopen dat u van [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] net zo zult genieten als dat wij het fijn vonden het te bouwen. Indien u nog meer hulp nodig heeft, dan kunt u links daarvoor vinden alsook het laatste nieuws op http://openelec.tv"
 
 msgctxt "#32319"
 msgid "Cron"
@@ -1061,8 +1061,8 @@ msgid "Advanced Network Settings"
 msgstr "Geavanceerde netwerkinstellingen"
 
 msgctxt "#32369"
-msgid "Wait for network before starting XBMC"
-msgstr "Wacht op het netwerk om XBMC te starten"
+msgid "Wait for network before starting PHT"
+msgstr "Wacht op het netwerk om PHT te starten"
 
 msgctxt "#32370"
 msgid "Maximum Wait Time (Sec.)"
@@ -1073,8 +1073,8 @@ msgid "Backup"
 msgstr "Backup"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "Maak systeem- en XBMC-backup"
+msgid "Create System and PHT Backup"
+msgstr "Maak systeem- en PHT-backup"
 
 msgctxt "#32373"
 msgid "Restore Backup"

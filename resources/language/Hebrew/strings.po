@@ -1,14 +1,14 @@
-# XBMC Media Center language file
+# Plex Home Theater language file
 # Addon Name: OpenELEC Configuration
 # Addon id: service.openelec.settings
 # Addon Provider: OpenELEC
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Addons\n"
+"Project-Id-Version: PHT Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XBMC Translation Team\n"
+"Last-Translator: PHT Translation Team\n"
 "Language-Team: Hebrew (http://www.transifex.com/projects/p/xbmc-addons/language/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "ארכיטקטורה:"
 
 msgctxt "#609"
-msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for XBMC media center. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
-msgstr "Open Embedded Linux Entertainment Center - OpenELEC הינה הפצת לינוקס מינימליסטית שנבנתה במיוחד עבור מערכת הבידור של XBMC. מערכת OpenELEC תוכננה לאיתחול מהיר ותהליך התקנה מספיק פשוט עבור כל אחד כדי להמיר מערכת HTPC ערומה למערכת בידור מוגדרת לחלוטין בפחות מ-15 דקות."
+msgid "Open Embedded Linux Entertainment Center (OpenELEC) is a minimal Linux distribution purpose built for Plex Home Theater. OpenELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configuredd media machine in under 15 minutes."
+msgstr "Open Embedded Linux Entertainment Center - OpenELEC הינה הפצת לינוקס מינימליסטית שנבנתה במיוחד עבור מערכת הבידור של PHT. מערכת OpenELEC תוכננה לאיתחול מהיר ותהליך התקנה מספיק פשוט עבור כל אחד כדי להמיר מערכת HTPC ערומה למערכת בידור מוגדרת לחלוטין בפחות מ-15 דקות."
 
 msgctxt "#610"
 msgid "[B]Support:[/B][CR]Web: http://openelec.tv[CR]Forum: http://openelec.tv/forum[CR]Wiki: http://wiki.openelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #openelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/openelec[CR]Facebook: http://www.facebook.com/OpenELEC[CR]Google+: https://plus.google.com/+openelec"
@@ -153,20 +153,20 @@ msgid "721"
 msgstr "721"
 
 msgctxt "#722"
-msgid "Create a tar archive containing all OpenELEC and XBMC configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
-msgstr "יוצר קובץ ארכיון tar המכיל את הגדרות התצורה של OpenELEC ו-XBMC, מסדי נתונים ותוכן תמונות מערכת. קבצי הגיבוי יאוחסנו ב- storage/backups/"
+msgid "Create a tar archive containing all OpenELEC and PHT configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgstr "יוצר קובץ ארכיון tar המכיל את הגדרות התצורה של OpenELEC ו-PHT, מסדי נתונים ותוכן תמונות מערכת. קבצי הגיבוי יאוחסנו ב- storage/backups/"
 
 msgctxt "#723"
 msgid "Restore a tar archive backup previously created using the backup option above"
 msgstr "שחזר ארכיון גיבוי tar שנוצר קודם על ידי אופציית הגיבוי מעל"
 
 msgctxt "#724"
-msgid "Permanently reset OpenELEC OS configuration to defaults (XBMC is not touched)"
-msgstr "אפס לחלוטין הגדרות מערכת ההפעלה של OpenELEC לברירת המחדל (הגדרות XBMC לא יפגעו)"
+msgid "Permanently reset OpenELEC OS configuration to defaults (PHT is not touched)"
+msgstr "אפס לחלוטין הגדרות מערכת ההפעלה של OpenELEC לברירת המחדל (הגדרות PHT לא יפגעו)"
 
 msgctxt "#725"
-msgid "Permanently reset OpenELEC OS and XBMC configuration to defaults"
-msgstr "אפס לחלוטין הגדרות מערכת ההפעלה של OpenELEC ושל XBMC לברירת המחדל"
+msgid "Permanently reset OpenELEC OS and PHT configuration to defaults"
+msgstr "אפס לחלוטין הגדרות מערכת ההפעלה של OpenELEC ושל PHT לברירת המחדל"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"
@@ -209,8 +209,8 @@ msgid "Configure boot-time mounting of a remote filesystem, e.g. NFS or SMB moun
 msgstr "הגדר חיבור כונן רשת זבמן איתחול, לדוגמא כונן NFS או SMB על מערכת אחסון רשת מרוחקת, ללא צורך בהגדרות ידניות של autostart.sh"
 
 msgctxt "#736"
-msgid "Set to ON to delay XBMC startup until the network is available. Use this if the OS is booting into XBMC before the network is up and central MySQL databases are accessible."
-msgstr "בחר את האופציה כן על מנת לעכב אתחול של XBMC עד שהרשת זמינה. השתמש בזה כאשר מערכת ההפעלה מאתחלת לתוך XBMC לפני שהרשת התייצבה ונעשה שימוש במסד נתונים MySQL מרכזי"
+msgid "Set to ON to delay PHT startup until the network is available. Use this if the OS is booting into PHT before the network is up and central MySQL databases are accessible."
+msgstr "בחר את האופציה כן על מנת לעכב אתחול של PHT עד שהרשת זמינה. השתמש בזה כאשר מערכת ההפעלה מאתחלת לתוך PHT לפני שהרשת התייצבה ונעשה שימוש במסד נתונים MySQL מרכזי"
 
 msgctxt "#737"
 msgid "737"
@@ -865,8 +865,8 @@ msgid "Thank you"
 msgstr "תודה"
 
 msgctxt "#32318"
-msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter XBMC when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
-msgstr "התקנת ה-[COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] שלך מושלמת ועכשיו תיכנס ל-XBMC שם תוכל להגדיר ספריות המדיה שלך. עבור עזרה עם זה, ישנו מדריך זמין ב-wiki.xbmc.org.[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] מפותח על ידי צוות מסור של מפתחים אשר עובדים על הפרויקט אך ורק במנן הפנוי. אפילו שהפרויקט הינו התנדבותי, אנחנו עדיין חייבים לשלם עבור רוחב הפס שלנו באינטרנט ומשאבי הפיתוח שלנו אז אם אתה מוצא את [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] שימושי, אנחנו תמיד נעריך תרומה בכל סכום.[CR][CR]לסיום, אנו מקווים שאתה נהנה להשתמש ב-[COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] לפחות כמו שאנו נהנים מלבנות אותו. אם אתה צריך עזרה נוספת, אתה יכול למצוא קישורי עזרה ועדכוני חדשות ב-openelec.tv"
+msgid "You [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] installation is now complete and you'll now enter PHT when you can set up your media libraries. For help with this, there is a guide available at wiki.xbmc.org[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at openelec.tv"
+msgstr "התקנת ה-[COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] שלך מושלמת ועכשיו תיכנס ל-PHT שם תוכל להגדיר ספריות המדיה שלך. עבור עזרה עם זה, ישנו מדריך זמין ב-wiki.xbmc.org.[CR][CR][COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] מפותח על ידי צוות מסור של מפתחים אשר עובדים על הפרויקט אך ורק במנן הפנוי. אפילו שהפרויקט הינו התנדבותי, אנחנו עדיין חייבים לשלם עבור רוחב הפס שלנו באינטרנט ומשאבי הפיתוח שלנו אז אם אתה מוצא את [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] שימושי, אנחנו תמיד נעריך תרומה בכל סכום.[CR][CR]לסיום, אנו מקווים שאתה נהנה להשתמש ב-[COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] לפחות כמו שאנו נהנים מלבנות אותו. אם אתה צריך עזרה נוספת, אתה יכול למצוא קישורי עזרה ועדכוני חדשות ב-openelec.tv"
 
 msgctxt "#32319"
 msgid "Cron"
@@ -1061,8 +1061,8 @@ msgid "Advanced Network Settings"
 msgstr "הגדרות רשת מתקדמות"
 
 msgctxt "#32369"
-msgid "Wait for network before starting XBMC"
-msgstr "המתן לזמינות הרשת לפני אתחול XBMC"
+msgid "Wait for network before starting PHT"
+msgstr "המתן לזמינות הרשת לפני אתחול PHT"
 
 msgctxt "#32370"
 msgid "Maximum Wait Time (Sec.)"
@@ -1073,8 +1073,8 @@ msgid "Backup"
 msgstr "גיבוי"
 
 msgctxt "#32372"
-msgid "Create System and XBMC Backup"
-msgstr "צור גיבוי מערכת ו-XBMC"
+msgid "Create System and PHT Backup"
+msgstr "צור גיבוי מערכת ו-PHT"
 
 msgctxt "#32373"
 msgid "Restore Backup"
