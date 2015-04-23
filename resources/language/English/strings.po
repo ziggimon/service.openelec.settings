@@ -61,7 +61,7 @@ msgid "[B]Support:[/B][CR]Web: http://forums.plex.tv[CR][CR][B]Social Media:[/B]
 msgstr ""
 
 msgctxt "#611"
-msgid "The OpenELEC project runs on goodwill, love, and your donations. If you would like to contribute to the project you can donate using PayPal, Flattr or Bitcoin. Making a donation is easy and takes only a couple of minutes."
+msgid "Thank you for supporting this project. And thanks to the OpenELEC team, RasPlex team it has been possible to make these releases. All work is done in either spare time or when time otherwise permits. Please refer to http://forums.plex.tv for any issues."
 msgstr ""
 
 #emptystrings from id 612 to 699
@@ -641,7 +641,7 @@ msgid "Thank you"
 msgstr ""
 
 msgctxt "#32318"
-msgid "Your [COLOR FFFF9522]OpenELEC[/COLOR] installation is now complete and you'll now enter PlexHomeTheater.[CR]
+msgid "Your [COLOR FFFF9522]OpenELEC[/COLOR] installation is now complete and you'll now enter PlexHomeTheater.[CR]"
 msgstr ""
 
 msgctxt "#32319"
